@@ -1,3 +1,3 @@
 Contians Arduino scripts corresponding to Bonsai workflows for:
-  a) Basic Water-Reach Task (ReachBasic)
-  b) Water-Reach Task enabled with "Entry" condition-specifc optogenetic manipulation (ReachOptoEntry)
+  /n a) Basic Water-Reach Task (ReachBasic)
+  /n b) Water-Reach Task enabled with "Entry" condition-specifc optogenetic manipulation (ReachOptoEntry)
